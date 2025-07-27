@@ -1,4 +1,4 @@
-his project demonstrates how to build a multi-source Retrieval-Augmented Generation (RAG) pipeline using LangChain, Groq, and ChromaDB. The pipeline integrates data from two different sources: a live web page and a local Excel file.
+This project demonstrates how to build a multi-source Retrieval-Augmented Generation (RAG) pipeline using LangChain, Groq, and ChromaDB. The pipeline integrates data from two different sources: a live web page and a local Excel file.
 
 Features
 Web Scraping: Loads and processes content from a specified URL using WebBaseLoader.
